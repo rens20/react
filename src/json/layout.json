@@ -1,0 +1,28 @@
+{
+    "header": {
+      "title": "Website Title"
+
+    },
+    "nav": {
+      "links": [
+        {"text": "Home", "url": "#"},
+        {"text": "About", "url": "#"},
+        {"text": "Services", "url": "#"},
+        {"text": "Contact", "url": "#"}
+        
+      ]
+    },
+    "main": {
+      "sections": [
+        {
+          "title": "Welcome to our website!",
+          "content": "This is where your main content will go."
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "&copy; 2024. All rights reserved."
+     
+    }
+  }
+  
